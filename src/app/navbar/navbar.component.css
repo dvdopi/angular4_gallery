@@ -1,0 +1,18 @@
+nav{
+    background: #002451;
+    font-family:'roboto-condense',open-serif;
+
+}
+.logo{
+    font-size: 20px;
+    color: #ffffff;
+}
+ul.nav a{
+
+}
+ul.nav a:hover{
+
+}
+.active>a{
+    background: #B8F171;
+}
